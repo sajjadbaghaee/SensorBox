@@ -8,7 +8,7 @@ The system is suitable for **smart buildings**, **living labs**, **digital twins
 
 
 GitHub Repository:  
-👉 **https://github.com/sajjadbaghaee/KNN-wave_Regression**
+👉 **https://github.com/sajjadbaghaee/SensorBox**
 
 
 
